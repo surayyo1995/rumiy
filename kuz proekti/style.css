@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    position: relative;
+    width: 80%;
+    height: 100vh;
+
+}
+
+.video_item {
+
+    width: 100%;
+    height: 100vh;
+
+}
+
+.video {
+    position: absolute;
+    width: 600px;
+    height: 800px;
+
+}
+
+.header_title {
+    position: absolute;
+    width: 100%;
+    top:5%;
+    color: rgb(250, 242, 242);
+    text-align: center;
+}
